@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Livescore</string>
+    <string name="Name">name</string>
+    <string name="Description">description</string>
+    <string name="france_flag">France flag</string>
+    <string name="title">Title</string>
+    <string name="description">description</string>
+    <string name="Time">20:00</string>
+    <string name="score1">1</string>
+    <string name="score2">3</string>
+    <string name="team1">Chelsea</string>
+    <string name="team2">Barcelona</string>
+    <string name="Open">NavBar</string>
+    <string name="Close">NavBar</string>
+    <string name="team11">Team11</string>
+    <string name="team22">Team22</string>
+    <string name="match_details">Match Details</string>
+    <string name="title_activity_match_details">MatchDetails</string>
+    <string name="tab_text_1">Summary</string>
+    <string name="tab_text_2">Statistics</string>
+    <string name="tab_text_3">Line-Ups</string>
+    <string name="tab_text_4">H2H</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="stats">Stats</string>
+    <string name="summary">Summary</string>
+    <string name="lineups">Lineups</string>
+    <string name="h2h">H2H</string>
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+</resources>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+<!--    <item-->
+<!--        android:id="@+id/results"-->
+<!--        android:title="Results"-->
+<!--        android:icon="@drawable/ic_baseline_sports_football_24">-->
+
+<!--    </item>-->
+
+
+
+    <item
+        android:id="@+id/fixtures"
+        android:title="Fixtures"
+        android:icon="@drawable/ic_baseline_access_time_24">
+
+    </item>
+
+
+    <item
+        android:id="@+id/table"
+        android:title="Table"
+        android:icon="@drawable/ic_baseline_table_chart_24">
+
+    </item>
+
+    <item
+        android:id="@+id/L_matches"
+        android:title="Live matches"
+        android:icon="@drawable/ic_baseline_live_tv_24">
+
+    </item>
+
+    <item
+        android:id="@+id/news"
+        android:title="News"
+        android:icon="@drawable/ic_baseline_info_24">
+
+    </item>
+
+
+    <item
+        android:id="@+id/settings"
+        android:title="Settings"
+        android:icon="@drawable/ic_baseline_settings_24">
+
+    </item>
+
+</menu>
